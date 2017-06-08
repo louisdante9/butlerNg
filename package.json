@@ -1,0 +1,26 @@
+{
+  "name": "butler",
+  "version": "1.0.0",
+  "description": "Butler Services Nig., an online butler service platform",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app",
+    "test": "mocha app"
+  },
+  "keywords": [
+    "online",
+    "platform",
+    "online platform",
+    "online services",
+    "service",
+    "services",
+    "cleaning",
+    "food",
+    "fast food",
+    "dry cleaning",
+    "delivery",
+    "home delivery"
+  ],
+  "author": "webgrillz <webgrillz@gmail.com>",
+  "license": "ISC"
+}
